@@ -1,4 +1,4 @@
-From python:3.7-alpine
+FROM python:3.7-alpine
 MAINTAINER Dhenoo Tech Solutions
 
 ENV PYTHONUNBUFFERED 1
